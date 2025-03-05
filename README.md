@@ -5,6 +5,7 @@
 **InstaBot-Premium** is a powerful Chrome extension designed to automate and optimize Instagram growth strategies. It helps users increase followers, boost engagement, and streamline social media management with advanced features and intuitive tools <button class="citation-flag" data-index="4"><button class="citation-flag" data-index="6"><button class="citation-flag" data-index="8">.
 
 https://t.me/growbotcrackedinstagram
+
 ---
 
 ## 🛠️ Key Features
