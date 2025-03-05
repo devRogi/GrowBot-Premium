@@ -1,4 +1,4 @@
-# GrowBot-Premium
+# Premium
 
 # 📱 InstaAutoBot - The Ultimate Tool for Instagram Growth ❤️🚀
 
