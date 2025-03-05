@@ -1,4 +1,4 @@
-# instaAutoBot
+# InstaAutoBot
 #InstagramFollowers #Instagram #Seguidores #Bot
 
 # 📱 InstaAutoBot - The Ultimate Tool for Instagram Growth ❤️🚀
@@ -12,6 +12,7 @@
 | **Feature**                          | **Description**                                                                                     | **Source** |
 |--------------------------------------|-----------------------------------------------------------------------------------------------------|------------|
 | **✅ Premium**                | Full tool access.            | <button class="citation-flag" data-index="1"><button class="citation-flag" data-index="10"> |
+| **✅ Anti-Ban**                | 100% protection against bans and restrictions.            | <button class="citation-flag" data-index="1"><button class="citation-flag" data-index="10"> |
 | **✅ Follow/Unfollow Automation**     | Automatically follow or unfollow users based on customizable criteria to grow your audience.       | <button class="citation-flag" data-index="4"><button class="citation-flag" data-index="6"> |
 | **✅ Remove Followers**               | Clean your follower list by removing inactive or unwanted accounts.                                | -          |
 | **✅ Hashtag-Based Engagement**       | Engage with posts using targeted hashtags to increase visibility and reach within your niche.      | <button class="citation-flag" data-index="1"><button class="citation-flag" data-index="6"> |
@@ -22,5 +23,5 @@
 ---
 
 ## 🎯 Objective & Audience
-- **Objective**: Simplify Instagram growth through automation while maintaining authenticity and avoiding platform penalties <button class="citation-flag" data-index="6"><button class="citation-flag" data-index="8">.  
-- **Audience**: Ideal for influencers, businesses, and social media managers aiming to scale their presence efficiently <button class="citation-flag" data-index="1"><button class="citation-flag" data-index="5">.  
+- **Objective**: Simplify Instagram growth through automation while maintaining authenticity and avoiding platform penalties. <button class="citation-flag" data-index="6"><button class="citation-flag" data-index="8">  
+- **Audience**: Ideal for influencers, businesses, and social media managers aiming to scale their presence efficiently. <button class="citation-flag" data-index="1"><button class="citation-flag" data-index="5"> 
